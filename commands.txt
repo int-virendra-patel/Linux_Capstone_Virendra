@@ -1,0 +1,13 @@
+Task 1 Commands:
+mkdir -p Linux_Capstone_Virendra/src/scripts Linux_Capstone_Virendra/config Linux_Capstone_Virendra/logs Linux_Capstone_Virendra/backup
+Task 2 Commands:
+touch logs/system_info.txt
+date >> logs/system_info.txt
+free -h >> logs/system_info.txt
+df -h >> logs/system_info.txt
+Task 3 Commands:
+touch config/database.cfg
+chmod 640 config/database.cfg
+touch config/secret_key.pem
+Task 4 Commands:
+ps aux | grep -E "bash|terminal" > src/active_processes.txt

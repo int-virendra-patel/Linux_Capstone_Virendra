@@ -1,0 +1,2 @@
+virendr+    4788  0.0  0.0  20948  6388 pts/0    Ss   09:46   0:00 /usr/bin/bash
+virendr+    6979  0.0  0.0  18148  2508 pts/0    S+   12:34   0:00 grep --color=auto -E bash|terminal
